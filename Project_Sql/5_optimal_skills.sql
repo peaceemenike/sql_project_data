@@ -50,7 +50,9 @@ LIMIT 25
 
 
 
-
+/*
+Precise method of solving the question
+*/
 
 SELECT
   skills_dim.skill_id,
