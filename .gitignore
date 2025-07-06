@@ -5,3 +5,15 @@
 /5_unions.sql
 /csv_files-20250613T034647Z-1-001
 /examples.sql
+
+# Ignore everything by default
+*
+
+# Allow only specific folders
+!Project_Sql/
+!sql_load*/
+
+# Allow everything inside them
+!Project_Sql/**
+!sql_load**/
+SHEET/Top_100_payingjobs.csv
