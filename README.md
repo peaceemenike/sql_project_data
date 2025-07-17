@@ -53,7 +53,7 @@ Companies like Selby Jennings, Demandbase, Reddit, Walmart, and Algo Capital Gro
 
 - 🎓 Job Title Consistency, Role Flexibility:
 Although all roles are titled “Data Scientist”, the variation in pay reflects differing expectations in experience, tech stack, or industry vertical, even within the same title across organizations.
-![Top Paying Job Roles](/assest/DatascienceRole.png)
+![Top Paying Job Roles](/Project_Sql/assest/DatascienceRole.png)
 *Bar graph visualizing the salary for the top 10 remote data science jobs; ChatGPT generated this graph from my SQL query results.*
 
 ### 2 Skills Required for Top Paying Jobs in Data Science
@@ -99,7 +99,7 @@ This suggests a blend of data querying, scripting, big data, and visualization t
 - 👩‍💻 Job Title Consistency, Skill Diversity:
 Although all roles are titled "Data Scientist", the range of required technical skills points to multi-disciplinary capabilities, with certain employers demanding big data architecture (Spark, Hadoop) alongside business intelligence tools (Tableau).
 
-![Skills for top Paying Data Science Roles](/assest/skillswithpay.png)
+![Skills for top Paying Data Science Roles](/Project_Sql/assest/skillswithpay.png)
 *Here is your black-background bar graph showing the top skills in remote data science jobs by average salary.*
 
 🧠 Insights:
