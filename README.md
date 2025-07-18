@@ -81,35 +81,35 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 
-📊 Here's the breakdown of the top remote data science jobs in 2023:
-- 🧾 Wide Salary Range:
+**📊 Here's the breakdown of the top remote data science jobs in 2023:**
+* **🧾 Wide Salary Range:**
 The top 3 companies (Selby Jennings and Algo Capital Group) offer salaries ranging from $375,000 to $550,000, underscoring the earning potential of high-performing data scientists in remote environments.
 
-- 🏢 Diverse Employers:
+* **🏢 Diverse Employers:**
 Top-paying remote roles are concentrated in Selby Jennings and Algo Capital Group, reflecting high investment in data talent within finance and capital markets.
 
-- 🧠 In-Demand Skills Across Roles:
+* **🧠 In-Demand Skills Across Roles:**
 The most frequently required skills among the highest-paid roles include:
-  - SQL (appears across all job IDs)
-  - Python (strong presence in multiple roles)
-  - Java, Cassandra, Spark, Hadoop, Tableau (clustered within Algo Capital Group role at $375K)
+  * SQL (appears across all job IDs)
+  * Python (strong presence in multiple roles)
+  * Java, Cassandra, Spark, Hadoop, Tableau (clustered within Algo Capital Group role at $375K)
 
 This suggests a blend of data querying, scripting, big data, and visualization tools is valued at the highest salary tiers.
 
-- 👩‍💻 Job Title Consistency, Skill Diversity:
+* **👩‍💻 Job Title Consistency, Skill Diversity:**
 Although all roles are titled "Data Scientist", the range of required technical skills points to multi-disciplinary capabilities, with certain employers demanding big data architecture (Spark, Hadoop) alongside business intelligence tools (Tableau).
 
 ![Skills for top Paying Data Science Roles](/Project_Sql/assest/skillswithpay.png)
 *Here is your black-background bar graph showing the top skills in remote data science jobs by average salary.*
 
-🧠 Insights:
-- SQL and Python top the list in both frequency and salary range.
-- Big data tools like Spark, Hadoop, and Cassandra are clustered just below, emphasizing demand in distributed systems.
-- Tableau shows value in roles requiring data visualization and storytelling.
+**🧠 Insights:**
+* SQL and Python top the list in both frequency and salary range.
+* Big data tools like Spark, Hadoop, and Cassandra are clustered just below, emphasizing demand in distributed systems.
+* Tableau shows value in roles requiring data visualization and storytelling.
 
 :
 
-### 🔍 3 Top Demanded Data Science Skills
+### **🔍 3 Top Demanded Data Science Skills**
 To uncover the most in-demand skills for remote data science roles, I used a query that joins job postings with their corresponding skills and filters for data scientists working remotely. The goal was to retrieve the top 25 most frequently requested technical skills, offering career-aligned insights for job seekers.
 
 ```sql
@@ -127,24 +127,24 @@ ORDER BY
 LIMIT 25;
 ```
 
-📊 Here's the breakdown of the top 25 most in-demand data science skills in 2023:
-- 🥇 Python – 10,390 mentions
+**📊 Here's the breakdown of the top 25 most in-demand data science skills in 2023:**
+* 🥇 Python – 10,390 mentions
 The backbone of most data workflows; essential for modeling, scripting, and deployment.
-- 🥈 SQL – 7,488 mentions
+* 🥈 SQL – 7,488 mentions
 Still critical for data wrangling, extraction, and transformation.
-- 🥉 R – 4,674 mentions
+* 🥉 R – 4,674 mentions
 Popular in statistics-heavy environments and research.
-- ☁️ Cloud Skills
+* ☁️ Cloud Skills
 AWS (2,593), Azure (1,919), GCP (808) – Cloud proficiency is increasingly essential.
-- 📊 Visualization Tools:
+* 📊 Visualization Tools:
 Tableau (2,458), Power BI (1,125), Excel (1,264)
-- 🧠 Machine Learning Libraries:
+* 🧠 Machine Learning Libraries:
 TensorFlow (1,836), PyTorch (1,607), Scikit-learn (1,252), Keras (679)
-- ⚙️ Data Engineering & Big Data:
+* ⚙️ Data Engineering & Big Data:
 Spark (2,008), Hadoop (1,214), Databricks (951), Snowflake (759)
-- 🧮 Other Core Tools & Libraries:
+* 🧮 Other Core Tools & Libraries:
 Pandas (1,836), NumPy (1,195), Git (1,095), Java (1,073), Scala (741), PySpark (706), Docker (676)
-### 📊 Top 5 In-Demand Data Science Skills
+### **📊 Top 5 In-Demand Data Science Skills**
 
 | Skills   | Demand Count |
 |----------|--------------|
@@ -160,7 +160,7 @@ Pandas (1,836), NumPy (1,195), Git (1,095), Java (1,073), Scala (741), PySpark (
 | Pandas   | 1,836        |
 
 
-### 4 💰Top Paying Data Science Skills (Remote Roles)
+### **4 💰Top Paying Data Science Skills (Remote Roles)**
 To identify the most financially rewarding skills for remote data scientist roles, we queried positions with specified average salaries. The goal was to find which skills command the highest pay across job postings, helping professionals focus on high-value tools worth mastering.
 ```sql
 SELECT 
@@ -178,80 +178,80 @@ LIMIT 25;
 ```
 
 
-🧠 Here's the breakdown of the top 25 highest-paying data science skills in 2023:
-- 🥇 GDPR – $217,738
+**🧠 Here's the breakdown of the top 25 highest-paying data science skills in 2023:**
+* 🥇 GDPR – $217,738
 Huge demand for data privacy & compliance expertise.
 
-- 🥈 Golang – $208,750
+* 🥈 Golang – $208,750
 Modern, scalable backend language, especially in ML infra.
 
-- 🥉 Atlassian – $189,700
+* 🥉 Atlassian – $189,700
 High pay for tools like Jira, Confluence in data workflows.
 
-- 🧪 Selenium – $180,000
+* 🧪 Selenium – $180,000
 Valuable for automated testing in AI/ML pipelines.
 
-- 👁️ OpenCV – $172,500
+* 👁️ OpenCV – $172,500
 Shows strong interest in computer vision projects.
 
-- 🧠 Neo4j – $171,655
+* 🧠 Neo4j – $171,655
 Graph DB skills for complex relationship modeling.
 
-- 📊 MicroStrategy – $171,147
+* 📊 MicroStrategy – $171,147
 BI platform still drawing top salaries.
 
-- 🛢️ DynamoDB – $169,670
+* 🛢️ DynamoDB – $169,670
 Scalable NoSQL DB skills highly paid.
 
-- 👨‍💻 PHP – $168,125
+* 👨‍💻 PHP – $168,125
 Legacy tech still in high-salary roles.
 
-- 🧹 Tidyverse – $165,513
+* 🧹 Tidyverse – $165,513
 Popular R toolkit for data wrangling & viz.
 
-- 💰 Solidity – $165,000
+* 💰 Solidity – $165,000
 Blockchain smart contracts skill with big payouts.
 
-- 💻 C – $164,865
+* 💻 C – $164,865
 Critical for low-level optimization & embedded ML.
 
-- 🔁 Go – $164,691
+* 🔁 Go – $164,691
 Another modern language with infra efficiency.
 
-- 🤖 DataRobot – $164,500
+* 🤖 DataRobot – $164,500
 AutoML expertise in demand.
 
-- 📈 Qlik – $164,485
+* 📈 Qlik – $164,485
 BI and dashboarding skills with strong ROI.
 
-- 🧠 Redis – $162,500
+* 🧠 Redis – $162,500
 In-memory data store valued in real-time apps.
 
-- 🧩 Watson – $161,710
+* 🧩 Watson – $161,710
 IBM’s AI suite still commanding good pay.
 
-- 🦀 Rust – $161,250
+* 🦀 Rust – $161,250
 Memory-safe systems programming skill.
 
-- 🧬 Elixir – $161,250
+* 🧬 Elixir – $161,250
 Concurrency and fault-tolerance for data pipelines.
 
-- ☁️ Cassandra – $160,850
+* ☁️ Cassandra – $160,850
 Distributed DB expertise is highly compensated.
 
-- 👀 Looker – $158,715
+* 👀 Looker – $158,715
 Cloud-native BI tools trending upward.
 
-- 💬 Slack – $158,333
+* 💬 Slack – $158,333
 Integration and automation in team comms.
 
-- 💻 Terminal – $157,500
+* 💻 Terminal – $157,500
 Power users of shell/bash scripting still earn big.
 
-- 🌀 Airflow – $157,414
+* 🌀 Airflow – $157,414
 Workflow orchestration skill in production ML.
 
-- 🔣 Julia – $157,244
+* 🔣 Julia – $157,244
 Emerging language for numerical computing.
 
 
@@ -284,7 +284,7 @@ Emerging language for numerical computing.
 | julia         | 157,244        |
 
 
-### 5 💡 Optimal Skills to Learn: High Demand + High Pay
+### **5 💡 Optimal Skills to Learn: High Demand + High Pay**
 To uncover the most optimal skills to pursue as a data scientist, I used a SQL query that merges job demand with salary insights. It filters remote jobs with disclosed salaries, giving a ranked list of the top 25 skills that are both in demand and offer high average salaries.
 
 ```sql
