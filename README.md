@@ -1,13 +1,13 @@
 README.md
-# Introduction 
+# **Introduction** 
 📊 Dive into the data job market! Focusing on data science roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and ☑️ where high demand meets high salary in the world of data science.
 
 SQL queries? Check them out here: [Project_sql Folder](/Project_Sql/).
 
-# Background 
+# **Background** 
 Driven by a quest to navigate the data science job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others’ work to find optimal jobs.
 
-### The questions I wanted to answer through my SQL queries were:
+### **The questions I wanted to answer through my SQL queries were:**
 1. What are the top-paying data science jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data science roles?
@@ -16,7 +16,7 @@ Driven by a quest to navigate the data science job market more effectively, this
 
 
 
-# Tools I Used
+# **Tools I Used**
 For my deep dive into the data science job market, I harnessed the power of several key tools:
 
 - **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
@@ -24,10 +24,10 @@ For my deep dive into the data science job market, I harnessed the power of seve
 - **Visual Studio Code**: My go-to for database management and executing SQL queries.
 - **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-# The Analysis 
+# **The Analysis** 
 Each query for this project aimed at investigating specific aspects of the data science job market. Here’s how I approached each question:
 
-### 1 Top Paying Data Science Jobs
+### **1 Top Paying Data Science Jobs**
 To identify the highest-paying roles, I filtered data science positions by average yearly salary and location, focusing on remote jobs. This query highlights the high-paying opportunities in the field.
 ```sql
 SELECT job_title_short,
@@ -359,11 +359,11 @@ LIMIT 25;
 
 763
 ```
-🔍 Key Insights from the Data
-- Power Skills that Pay: Languages like C, Go, Scala, and tools like Qlik, Airflow, and BigQuery top the list—combining low-to-medium demand with high financial reward.
-- Cloud & Infra Demand: Skills in GCP, AWS, Snowflake, Redshift, and Kubernetes signal demand for cloud-native, scalable infrastructure expertise.
-- ML & AI Proficiency: Tools like PyTorch, TensorFlow, Spark, and Scikit-learn dominate—showing that AI/ML expertise pays off.
-- Well-Rounded Tech Stack: While Python, Pandas, and SQL may not have the highest pay, their massive demand ensures broad job security.
+**🔍 Key Insights from the Data**
+* Power Skills that Pay: Languages like C, Go, Scala, and tools like Qlik, Airflow, and BigQuery top the list—combining low-to-medium demand with high financial reward.
+* Cloud & Infra Demand: Skills in GCP, AWS, Snowflake, Redshift, and Kubernetes signal demand for cloud-native, scalable infrastructure expertise.
+* ML & AI Proficiency: Tools like PyTorch, TensorFlow, Spark, and Scikit-learn dominate—showing that AI/ML expertise pays off.
+* Well-Rounded Tech Stack: While Python, Pandas, and SQL may not have the highest pay, their massive demand ensures broad job security.
 
 | Skill          | Avg Salary ($) | Demand Count |
 |----------------|----------------|---------------|
@@ -395,31 +395,31 @@ LIMIT 25;
 
 
 
-# What I Learned 
+# **What I Learned** 
 Throughout this project, I’ve leveled up my SQL and data analysis skills by digging deep into demand trends and salary insights:
 
-- ✨ Demand-Driven Skill Discovery: Learned how to extract the most frequently mentioned skills in job postings, helping identify what the market truly values for Data Scientist roles.
+* ✨ Demand-Driven Skill Discovery: Learned how to extract the most frequently mentioned skills in job postings, helping identify what the market truly values for Data Scientist roles.
 
-- 💰 Salary Insights with Joins: Mastered combining multiple tables using INNER JOIN to calculate average salaries by skill, revealing which tools pay the most.
+* 💰 Salary Insights with Joins: Mastered combining multiple tables using INNER JOIN to calculate average salaries by skill, revealing which tools pay the most.
 
-- 📊 Strategic Aggregation: Got comfortable using COUNT() and AVG() together, layered with GROUP BY and HAVING to pull meaningful metrics out of big data.
+* 📊 Strategic Aggregation: Got comfortable using COUNT() and AVG() together, layered with GROUP BY and HAVING to pull meaningful metrics out of big data.
 
-- 🧠 Career-Optimized Querying: Developed the skill of writing queries with filters like job_work_from_home = TRUE and job_title_short = 'Data Scientist' to target highly relevant remote jobs.
+* 🧠 Career-Optimized Querying: Developed the skill of writing queries with filters like job_work_from_home = TRUE and job_title_short = 'Data Scientist' to target highly relevant remote jobs.
 
-- 🛠️ Data-Backed Recommendations: Used SQL to make data-driven decisions about which tools to learn next, combining both demand and salary metrics in one optimized query.
+* 🛠️ Data-Backed Recommendations: Used SQL to make data-driven decisions about which tools to learn next, combining both demand and salary metrics in one optimized query.
 
-# Conclusions
-### 🔍 Insight
-- 🚀 Go, C, and Qlik top the salary chart—making them high-reward skills for those looking to boost income, even if demand is niche.
+# **Conclusions**
+### **🔍 Insight**
+* 🚀 Go, C, and Qlik top the salary chart—making them high-reward skills for those looking to boost income, even if demand is niche.
 
-- 🧱 Python, SQL, AWS, and Tableau remain unbeatable in terms of combined demand and pay, offering both job stability and financial reward.
+* 🧱 Python, SQL, AWS, and Tableau remain unbeatable in terms of combined demand and pay, offering both job stability and financial reward.
 
-- 🔍 SQL stands out as a core must-have, appearing in nearly every data stack—crucial for querying, aggregating, and transforming data effectively.
+* 🔍 SQL stands out as a core must-have, appearing in nearly every data stack—crucial for querying, aggregating, and transforming data effectively.
 
-- 🧩 Mastering tools like Pandas, Spark, and Snowflake provides a balanced advantage—skills that show up often and pay competitively.
+* 🧩 Mastering tools like Pandas, Spark, and Snowflake provides a balanced advantage—skills that show up often and pay competitively.
 
-- 📌 SQL isn’t just for querying—it's a career-planning weapon when used to analyze job market trends and uncover actionable insights.
+* 📌 SQL isn’t just for querying—it's a career-planning weapon when used to analyze job market trends and uncover actionable insights.
 
-### 💬 Closing Thoughts
+### **💬 Closing Thoughts**
 
 This project enhanced my SQL skills and provided valuable insights into the remote data science job market. The findings from the analysis serve as a strategic guide for prioritizing skill development and targeting high-value career paths. Aspiring data scientists can position themselves more competitively by focusing on in-demand tools and technologies that also offer high salaries. This exploration underscores the importance of continuous learning and adaptation to rapidly evolving trends in the field of data science.
