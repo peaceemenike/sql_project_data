@@ -44,19 +44,19 @@ WHERE job_title_short IN ('Data Scientist')
 ORDER BY salary_year_avg DESC
 LIMIT 100;
 ```
-📊 Here's the breakdown of the top data science jobs in 2023:
-- 📈 Wide Salary Range:
+**📊 Here's the breakdown of the top data science jobs in 2023:**
+* 📈 Wide Salary Range:
 Top 10 paying data science roles range from $300,000 to $550,000, showcasing significant salary potential even at the entry executive level in remote full-time roles.
 
-- 🏢 Diverse Employers:
+* 🏢 Diverse Employers:
 Companies like Selby Jennings, Demandbase, Reddit, Walmart, and Algo Capital Group are offering high-paying remote positions, reflecting demand across finance, e-commerce, advertising, and tech sectors.
 
-- 🎓 Job Title Consistency, Role Flexibility:
+* 🎓 Job Title Consistency, Role Flexibility:
 Although all roles are titled “Data Scientist”, the variation in pay reflects differing expectations in experience, tech stack, or industry vertical, even within the same title across organizations.
 ![Top Paying Job Roles](/Project_Sql/assest/DatascienceRole.png)
 *Bar graph visualizing the salary for the top 10 remote data science jobs; ChatGPT generated this graph from my SQL query results.*
 
-### 2 Skills Required for Top Paying Jobs in Data Science
+### **2 Skills Required for Top Paying Jobs in Data Science**
 To identify the highest-paying roles, I filtered remote data science positions by average yearly salary and company. Then, I extended the query to include associated skills, highlighting both financial potential and technical demand in the field.
 ```sql
 WITH top_paying_jobs AS(
@@ -107,7 +107,6 @@ Although all roles are titled "Data Scientist", the range of required technical 
 * Big data tools like Spark, Hadoop, and Cassandra are clustered just below, emphasizing demand in distributed systems.
 * Tableau shows value in roles requiring data visualization and storytelling.
 
-:
 
 ### **🔍 3 Top Demanded Data Science Skills**
 To uncover the most in-demand skills for remote data science roles, I used a query that joins job postings with their corresponding skills and filters for data scientists working remotely. The goal was to retrieve the top 25 most frequently requested technical skills, offering career-aligned insights for job seekers.
