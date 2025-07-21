@@ -45,13 +45,13 @@ ORDER BY salary_year_avg DESC
 LIMIT 100;
 ```
 **📊 Here's the breakdown of the top data science jobs in 2023:**
-* 📈 Wide Salary Range:
+* **📈 Wide Salary Range:**
 Top 10 paying data science roles range from $300,000 to $550,000, showcasing significant salary potential even at the entry executive level in remote full-time roles.
 
-* 🏢 Diverse Employers:
+* **🏢 Diverse Employers:**
 Companies like Selby Jennings, Demandbase, Reddit, Walmart, and Algo Capital Group are offering high-paying remote positions, reflecting demand across finance, e-commerce, advertising, and tech sectors.
 
-* 🎓 Job Title Consistency, Role Flexibility:
+* **🎓 Job Title Consistency, Role Flexibility:**
 Although all roles are titled “Data Scientist”, the variation in pay reflects differing expectations in experience, tech stack, or industry vertical, even within the same title across organizations.
 ![Top Paying Job Roles](/Project_Sql/assest/DatascienceRole.png)
 *Bar graph visualizing the salary for the top 10 remote data science jobs; ChatGPT generated this graph from my SQL query results.*
