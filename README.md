@@ -178,79 +178,79 @@ LIMIT 25;
 
 
 **🧠 Here's the breakdown of the top 25 highest-paying data science skills in 2023:**
-* 🥇 GDPR – $217,738
+* **🥇 GDPR** – $217,738
 Huge demand for data privacy & compliance expertise.
 
-* 🥈 Golang – $208,750
+* **🥈 Golang** – $208,750
 Modern, scalable backend language, especially in ML infra.
 
-* 🥉 Atlassian – $189,700
+* **🥉 Atlassian** – $189,700
 High pay for tools like Jira, Confluence in data workflows.
 
-* 🧪 Selenium – $180,000
+* **🧪 Selenium** – $180,000
 Valuable for automated testing in AI/ML pipelines.
 
-* 👁️ OpenCV – $172,500
+* **👁️ OpenCV** – $172,500
 Shows strong interest in computer vision projects.
 
-* 🧠 Neo4j – $171,655
+* **🧠 Neo4j** – $171,655
 Graph DB skills for complex relationship modeling.
 
-* 📊 MicroStrategy – $171,147
+* **📊 MicroStrategy** – $171,147
 BI platform still drawing top salaries.
 
-* 🛢️ DynamoDB – $169,670
+* **🛢️ DynamoDB** – $169,670
 Scalable NoSQL DB skills highly paid.
 
-* 👨‍💻 PHP – $168,125
+* **👨‍💻 PHP** – $168,125
 Legacy tech still in high-salary roles.
 
-* 🧹 Tidyverse – $165,513
+* **🧹 Tidyverse** – $165,513
 Popular R toolkit for data wrangling & viz.
 
-* 💰 Solidity – $165,000
+* **💰 Solidity** – $165,000
 Blockchain smart contracts skill with big payouts.
 
-* 💻 C – $164,865
+* **💻 C** – $164,865
 Critical for low-level optimization & embedded ML.
 
-* 🔁 Go – $164,691
+* **🔁 Go** – $164,691
 Another modern language with infra efficiency.
 
-* 🤖 DataRobot – $164,500
+* **🤖 DataRobot** – $164,500
 AutoML expertise in demand.
 
-* 📈 Qlik – $164,485
+* **📈 Qlik** – $164,485
 BI and dashboarding skills with strong ROI.
 
-* 🧠 Redis – $162,500
+* **🧠 Redis** – $162,500
 In-memory data store valued in real-time apps.
 
-* 🧩 Watson – $161,710
+* **🧩 Watson** – $161,710
 IBM’s AI suite still commanding good pay.
 
-* 🦀 Rust – $161,250
+* **🦀 Rust** – $161,250
 Memory-safe systems programming skill.
 
-* 🧬 Elixir – $161,250
+* **🧬 Elixir** – $161,250
 Concurrency and fault-tolerance for data pipelines.
 
-* ☁️ Cassandra – $160,850
+* **☁️ Cassandra** – $160,850
 Distributed DB expertise is highly compensated.
 
-* 👀 Looker – $158,715
+* **👀 Looker** – $158,715
 Cloud-native BI tools trending upward.
 
-* 💬 Slack – $158,333
+* **💬 Slack** – $158,333
 Integration and automation in team comms.
 
-* 💻 Terminal – $157,500
+* **💻 Terminal** – $157,500
 Power users of shell/bash scripting still earn big.
 
-* 🌀 Airflow – $157,414
+* **🌀 Airflow** – $157,414
 Workflow orchestration skill in production ML.
 
-* 🔣 Julia – $157,244
+* **🔣 Julia** – $157,244
 Emerging language for numerical computing.
 
 
