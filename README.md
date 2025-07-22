@@ -127,21 +127,21 @@ LIMIT 25;
 ```
 
 **📊 Here's the breakdown of the top 25 most in-demand data science skills in 2023:**
-* 🥇 Python : 10,390 mentions
+* **🥇 Python** : 10,390 mentions
 The backbone of most data workflows; essential for modeling, scripting, and deployment.
-* 🥈 SQL : 7,488 mentions
+* **🥈 SQL** : 7,488 mentions
 Still critical for data wrangling, extraction, and transformation.
-* 🥉 R : 4,674 mentions
+* **🥉 R** : 4,674 mentions
 Popular in statistics-heavy environments and research.
-* ☁️ Cloud Skills :
+* **☁️ Cloud Skills :**
 AWS (2,593), Azure (1,919), GCP (808) – Cloud proficiency is increasingly essential.
-* 📊 Visualization Tools:
+* **📊 Visualization Tools:**
 Tableau (2,458), Power BI (1,125), Excel (1,264)
-* 🧠 Machine Learning Libraries:
+* **🧠 Machine Learning Libraries:**
 TensorFlow (1,836), PyTorch (1,607), Scikit-learn (1,252), Keras (679)
-* ⚙️ Data Engineering & Big Data:
+* **⚙️ Data Engineering & Big Data:**
 Spark (2,008), Hadoop (1,214), Databricks (951), Snowflake (759)
-* 🧮 Other Core Tools & Libraries:
+* **🧮 Other Core Tools & Libraries:**
 Pandas (1,836), NumPy (1,195), Git (1,095), Java (1,073), Scala (741), PySpark (706), Docker (676)
 ### **📊 Top 5 In-Demand Data Science Skills**
 
