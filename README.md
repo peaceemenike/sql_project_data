@@ -19,7 +19,7 @@ Driven by a quest to navigate the data science job market more effectively, this
 # **Tools I Used**
 For my deep dive into the data science job market, I harnessed the power of several key tools:
 
-* **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
+*  **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
 * **PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
 * **Visual Studio Code**: My go-to for database management and executing SQL queries.
 * **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
@@ -359,10 +359,10 @@ LIMIT 25;
 763
 ```
 **🔍 Key Insights from the Data**
-* Power Skills that Pay: Languages like C, Go, Scala, and tools like Qlik, Airflow, and BigQuery top the list—combining low-to-medium demand with high financial reward.
-* Cloud & Infra Demand: Skills in GCP, AWS, Snowflake, Redshift, and Kubernetes signal demand for cloud-native, scalable infrastructure expertise.
-* ML & AI Proficiency: Tools like PyTorch, TensorFlow, Spark, and Scikit-learn dominate—showing that AI/ML expertise pays off.
-* Well-Rounded Tech Stack: While Python, Pandas, and SQL may not have the highest pay, their massive demand ensures broad job security.
+* **Power Skills that Pay**: Languages like C, Go, Scala, and tools like Qlik, Airflow, and BigQuery top the list—combining low-to-medium demand with high financial reward.
+* **Cloud & Infra Demand**: Skills in GCP, AWS, Snowflake, Redshift, and Kubernetes signal demand for cloud-native, scalable infrastructure expertise.
+* **ML & AI Proficiency**: Tools like PyTorch, TensorFlow, Spark, and Scikit-learn dominate—showing that AI/ML expertise pays off.
+* **Well-Rounded Tech Stack**: While Python, Pandas, and SQL may not have the highest pay, their massive demand ensures broad job security.
 
 | Skill          | Avg Salary ($) | Demand Count |
 |----------------|----------------|---------------|
@@ -397,15 +397,15 @@ LIMIT 25;
 # **What I Learned** 
 Throughout this project, I’ve leveled up my SQL and data analysis skills by digging deep into demand trends and salary insights:
 
-* ✨ Demand-Driven Skill Discovery: Learned how to extract the most frequently mentioned skills in job postings, helping identify what the market truly values for Data Scientist roles.
+* **✨ Demand-Driven Skill Discovery**: Learned how to extract the most frequently mentioned skills in job postings, helping identify what the market truly values for Data Scientist roles.
 
-* 💰 Salary Insights with Joins: Mastered combining multiple tables using INNER JOIN to calculate average salaries by skill, revealing which tools pay the most.
+* **💰 Salary Insights with Joins**: Mastered combining multiple tables using INNER JOIN to calculate average salaries by skill, revealing which tools pay the most.
 
-* 📊 Strategic Aggregation: Got comfortable using COUNT() and AVG() together, layered with GROUP BY and HAVING to pull meaningful metrics out of big data.
+* **📊 Strategic Aggregation**: Got comfortable using COUNT() and AVG() together, layered with GROUP BY and HAVING to pull meaningful metrics out of big data.
 
-* 🧠 Career-Optimized Querying: Developed the skill of writing queries with filters like job_work_from_home = TRUE and job_title_short = 'Data Scientist' to target highly relevant remote jobs.
+* **🧠 Career-Optimized Querying**: Developed the skill of writing queries with filters like job_work_from_home = TRUE and job_title_short = 'Data Scientist' to target highly relevant remote jobs.
 
-* 🛠️ Data-Backed Recommendations: Used SQL to make data-driven decisions about which tools to learn next, combining both demand and salary metrics in one optimized query.
+* **🛠️ Data-Backed Recommendations**: Used SQL to make data-driven decisions about which tools to learn next, combining both demand and salary metrics in one optimized query.
 
 # **Conclusions**
 ### **🔍 Insight**
