@@ -90,9 +90,9 @@ Top-paying remote roles are concentrated in Selby Jennings and Algo Capital Grou
 
 * **🧠 In-Demand Skills Across Roles:**
 The most frequently required skills among the highest-paid roles include:
-  * SQL (appears across all job IDs)
-  * Python (strong presence in multiple roles)
-  * Java, Cassandra, Spark, Hadoop, Tableau (clustered within Algo Capital Group role at $375K)
+  * **SQL** (appears across all job IDs)
+  * **Python** (strong presence in multiple roles)
+  * **Java, Cassandra, Spark, Hadoop, Tableau** (clustered within Algo Capital Group role at $375K)
 
 This suggests a blend of data querying, scripting, big data, and visualization tools is valued at the highest salary tiers.
 
